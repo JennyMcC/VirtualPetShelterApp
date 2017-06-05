@@ -1,4 +1,9 @@
-# Virtual Pet description
-My virtual pet is a duck named Fiona. I didn't allow the user to change her name because I am selfish and I like the name Fiona. On a scale from 1-100 (with 1 being 'not very' and 100 being 'very'), the user has to deal with her levels of hunger, thirst, fatigue and boredom. She will die if any of those things get over 100.  If any of those things drop below 15 (after the tick) then the game won't allow the user to use that interaction.
+# Virtual Pet Shelter
 
-Also, I'm referencing a Mitch Hedberg joke, I swear I'm not obsessed with Subway..if you know the joke, let's be best friends.
+I have four animals that will all eat, drink and play.
+At the end of the loot the user can either look at the status of all the pets, 
+or look at one individual pets status by typing its name. 
+The user may also quit if they type quit.
+Adopting and admitting a pet proved more challenging, 
+I've commented out the last of 1,000 things I tried that didn't work.
+Other than that, they game will end if any of the pets starve to death or if the shelter is empty.
